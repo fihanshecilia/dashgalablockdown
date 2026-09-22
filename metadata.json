@@ -1,0 +1,7 @@
+{
+  "name": "The Lab Lockdown - Official Game Showcase",
+  "description": "Website resmi dan showcase interaktif untuk game puzzle-adventure The Lab Lockdown.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
